@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Carlos Wunsch",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Generic Fresh Bacon",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Bronze Shirt",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27798",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12907",
+      "id": 2
+    }
+  ]
+}
